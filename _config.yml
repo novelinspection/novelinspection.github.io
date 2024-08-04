@@ -32,14 +32,8 @@ defaults:
     values:
       layout: "team"
 
-# sass:
-#   style: compressed # possible values: nested expanded compact compressed
-
 sass:
-  style: compressed
-  sass_dir: _sass
-  load_paths:
-    - assets/css
+  style: compressed # possible values: nested expanded compact compressed
 
 
 plugins:
